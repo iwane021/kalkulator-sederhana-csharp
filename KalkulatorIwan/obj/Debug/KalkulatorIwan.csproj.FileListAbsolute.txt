@@ -1,7 +1,6 @@
 D:\NET\KalkulatorIwan\KalkulatorIwan\bin\Debug\KalkulatorIwan.exe.config
 D:\NET\KalkulatorIwan\KalkulatorIwan\bin\Debug\KalkulatorIwan.exe
 D:\NET\KalkulatorIwan\KalkulatorIwan\bin\Debug\KalkulatorIwan.pdb
-D:\NET\KalkulatorIwan\KalkulatorIwan\obj\Debug\KalkulatorIwan.csprojResolveAssemblyReference.cache
 D:\NET\KalkulatorIwan\KalkulatorIwan\obj\Debug\KalkulatorIwan.Form1.resources
 D:\NET\KalkulatorIwan\KalkulatorIwan\obj\Debug\KalkulatorIwan.Properties.Resources.resources
 D:\NET\KalkulatorIwan\KalkulatorIwan\obj\Debug\KalkulatorIwan.csproj.GenerateResource.Cache
